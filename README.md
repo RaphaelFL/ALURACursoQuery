@@ -4,7 +4,7 @@ Projeto desenvolvido com HTML, CSS E JQuery(biblioteca de javascript).
 
 ## ℹ️ Sobre o projeto
 
-Este projeto consiste em mostrar aplicação na pratica de um codigo JQuery.
+Este projeto consiste em mostrar aplicação, na prática de um código JQuery.
 
 ## 📝 Tecnologias
 
