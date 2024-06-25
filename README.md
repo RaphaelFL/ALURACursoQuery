@@ -4,7 +4,7 @@ Projeto desenvolvido com HTML, CSS E JQuery(biblioteca de javascript).
 
 ## ℹ️ Sobre o projeto
 
-Este projeto consiste em mostrar aplicação que faz uso da biblioteca JQuery.
+Este projeto consiste em mostrar uma aplicação com o uso da biblioteca JQuery.
 
 ## 📝 Tecnologias
 
