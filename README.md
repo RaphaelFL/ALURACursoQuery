@@ -11,5 +11,13 @@ Este projeto consiste em mostrar aplicação na pratica de um codigo JQuery.
 - [JQuery](https://jquery.com/)
 - [CSS e HTML](https://developer.mozilla.org/pt-BR/)
 
+## ⚙️ Instalação
+
+Para que este rode em sua máquina, siga os passos abaixo:
+
+```bash
+# Use a extensão Live Server para rodar o projeto
+```
+
 ## Licença
 Copyright © 2021 Raphael Figueira Lopes.
